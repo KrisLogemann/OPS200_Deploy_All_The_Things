@@ -1,7 +1,7 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://afternoon-plateau-20728.herokuapp.com/",
+  "change_calculator": "https://kl-change-calculator.herokuapp.com/",
+  "mortgage_calculator": "https://kl-mortgage-calculator.herokuapp.com/",
+  "top_spots": "https://kl-topspots.herokuapp.com/",
+  "vstda": "https://kl-vstda.herokuapp.com/"
 }
